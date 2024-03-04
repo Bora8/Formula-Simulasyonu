@@ -1,0 +1,10 @@
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\bin\Debug\Formula Simülasyonu.exe.config
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\bin\Debug\Formula Simülasyonu.exe
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\bin\Debug\Formula Simülasyonu.pdb
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\obj\Debug\Formula Simülasyonu.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\obj\Debug\Formula_Simülasyonu.Form1.resources
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\obj\Debug\Formula_Simülasyonu.Properties.Resources.resources
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\obj\Debug\Formula Simülasyonu.csproj.GenerateResource.cache
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\obj\Debug\Formula Simülasyonu.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\obj\Debug\Formula Simülasyonu.exe
+C:\Users\KoelSYS\source\repos\Formula Simülasyonu\Formula Simülasyonu\obj\Debug\Formula Simülasyonu.pdb
